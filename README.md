@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Crazy Shit**
 
-- 📫 How to reach me **YOU CANT** (if you really want scrool down)
+- 📫 How to reach me **[VłJ₳Ɏ](https://tx.me/tha1apathybot)**
 
 - ⚡ Fun fact **I AM A HUMAN**
 
