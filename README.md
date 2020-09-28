@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Crazy Shit**
 
-- 📫 How to reach me -> **You can't**
+- 📫 How to reach me -> **[May be here](https://tx.me/N0WBOT)**
 
 - ⚡ Fun fact **I AM A HUMAN**
 
