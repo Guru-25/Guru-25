@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **HMM**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Guru-25?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Here](https://github.com/Guru-25?tab=repositories)**
 
 - 📝 I regulary write articles on **NO where**
 
