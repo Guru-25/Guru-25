@@ -1,4 +1,4 @@
-<h1 align="center">It's Guru 👋</h1>
+<h1 align="center">It's Vijay 👋</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guru-25" alt="Guru-25" /> </p>
@@ -21,5 +21,5 @@
 
 - ⚡ Fun fact **I AM A HUMAN**
 
-[![Guru's github stats](https://github-readme-stats.vercel.app/api?username=guru-25&show_icons=true&theme=dark)](https://github.com/esncgr/github-readme-stats)
+[![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=guru-25&show_icons=true&theme=dark)](https://github.com/esncgr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru-25&langs_count=9&hide=javascript,html,css&layout=compact)](https://github.com/guru-25/github-readme-stats)
