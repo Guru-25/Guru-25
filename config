@@ -1,1 +1,0 @@
--f "bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio" --no-mtime --merge-output-format mp4 --embed-subs --no-warnings --add-metadata --user-agent "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" -o /data/data/com.termux/files/home/storage/shared/Download/%(title)s-%(id)s.%(ext)s
