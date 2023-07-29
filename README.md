@@ -1,4 +1,4 @@
-[![@guru's Holopin board](https://holopin.io/api/user/board?user=guru)](https://holopin.io/@guru)
+<!-- [![@guru's Holopin board](https://holopin.io/api/user/board?user=guru)](https://holopin.io/@guru) -->
 
 <h1 align="center">Hi 👋, I'm Guru</h1>
 <h3 align="center">A tech enthusiast from India</h3>
@@ -44,3 +44,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guru-25&show_icons=true&locale=en&layout=compact" alt="guru-25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guru-25&" alt="guru-25" /></p>
