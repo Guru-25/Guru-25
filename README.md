@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Guru-25](https://github.com/Guru-25)
 
-- 🌱 I’m currently learning **OOP, Data Structures, Java, C++**
+- 🌱 I’m currently learning **Data Structures, C++**
 
 - 📫 How to reach me **guru@duck.com**
 
