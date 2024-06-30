@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SkillRack Points Tracker](https://github.com/Guru-25/skillrack-points-tracker)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Guru-25](https://github.com/Guru-25?tab=repositories&type=source)
+- 👨‍💻 All of my projects are available at [GitHub.com/Guru-25](https://github.com/Guru-25?tab=repositories&type=source)
 
 - 🌱 I’m currently learning **Machine Learning, React**
 
@@ -39,7 +39,5 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guru-25&show_icons=true&locale=en&layout=compact" alt="guru-25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guru-25&" alt="guru-25" /></p>
