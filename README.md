@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **guru@duck.com**
+- 📫 How to reach me **mail@gururaja.in**
 
 - ⚡ Fun fact **I use Fedora**
 
