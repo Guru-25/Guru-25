@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **mail@gururaja.in**
+- 📫 How to reach me:
+  - Email: **mail@gururaja.in**
+  - GPG Public Key: [D3773152559AFDFBA410606458FB3EF9E4EDAEBB](https://keys.openpgp.org/vks/v1/by-fingerprint/D3773152559AFDFBA410606458FB3EF9E4EDAEBB)
 
 - ⚡ Fun fact **I use Fedora**
 
