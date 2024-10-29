@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guru-25&label=Profile%20views&color=0e75b6&style=flat" alt="guru-25" /> </p>
 
-- 🔭 I’m currently working on [SkillRack Tracker](https://github.com/Guru-25/SkillrRack-Points-Tracker)
+- 🔭 I’m currently working on [SkillRack Tracker](https://github.com/Guru-25/SkillRack-Points-Tracker)
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Guru-25](https://github.com/Guru-25?tab=repositories&type=source)
 
