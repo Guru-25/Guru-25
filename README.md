@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Guru-25](https://github.com/Guru-25?tab=repositories&type=source)
 
-- 🌱 I’m currently learning **Machine Learning, React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Linux**
 
