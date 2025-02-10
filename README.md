@@ -21,8 +21,9 @@
 
 <h3 align="left">Certification:</h3>
 <p align="left">
-  <a href="https://www.credly.com/badges/79fb2c38-430d-469d-a85a-7a6c50c5f5de/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/bae44a2a-8881-4294-80d2-889295311805" alt="GitHub Foundations" width="160" height="160"/> </a>
+  <a href="https://www.credly.com/badges/79fb2c38-430d-469d-a85a-7a6c50c5f5de/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="160" height="160"/> </a>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/guru2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gururaja-r-64065b248" height="30" width="40" /></a>
