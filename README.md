@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Guru-25](https://github.com/Guru-25?tab=repositories&type=source)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Linux**
 
